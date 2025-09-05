@@ -1,5 +1,4 @@
- Cowrie Honeypot Project
-
+Cowrie Honeypot Project
 This project documents the setup and use of Cowrie, a medium-interaction SSH and Telnet honeypot.  
 The goal is to capture and analyze attacker behavior in a safe environment, while gaining hands-on experience with cybersecurity monitoring and attack simulation.
 
